@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\bin\Debug\TiendaZapatos.exe.config
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\bin\Debug\TiendaZapatos.exe
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\bin\Debug\TiendaZapatos.pdb
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\obj\Debug\TiendaZapatos.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\obj\Debug\TiendaZapatos.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\obj\Debug\TiendaZapatos.exe
+C:\Users\ESTUDIANTES\source\repos\TiendaZapatos\TiendaZapatos\obj\Debug\TiendaZapatos.pdb
